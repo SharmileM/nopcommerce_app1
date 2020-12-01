@@ -1,0 +1,11 @@
+com\nopcommerce\testCases\TC_loginTest_001.class
+com\nopcommerce\pageObjects\AddCustomerPage.class
+com\nopcommerce\pageObjects\LoginPage.class
+com\nopcommerce\testBase\BaseClass.class
+com\nopcommerce\testCases\TC_SearchCustomerByEmail_004.class
+com\nopcommerce\testCases\TC_LoginDDT_002.class
+com\nopcommerce\testCases\TC_SearchCustomerByName_005.class
+com\nopcommerce\utilities\XLUtility.class
+com\nopcommerce\testCases\TC_AddCustomerTest_003.class
+com\nopcommerce\utilities\ExtendReportManager.class
+com\nopcommerce\pageObjects\SearchCustomerPage.class
